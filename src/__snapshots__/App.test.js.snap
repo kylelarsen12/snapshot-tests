@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <h2>
+    Snapshot Testing
+  </h2>
+  <div
+    className="col d-flex justify-content-center"
+  >
+    <div
+      className="card"
+      style={
+        Object {
+          "width": "18rem",
+        }
+      }
+    >
+      <img
+        className="card-img-top"
+        src="mypic.jpg"
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          kylelarsen12
+        </div>
+        <p
+          className="card-text"
+        >
+          Come see some of my work on github!
+        </p>
+        <a
+          className="btn btn-primary"
+          href="/github.com/kylelarsen12"
+          onClick={[Function]}
+        >
+          Click Here!
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
